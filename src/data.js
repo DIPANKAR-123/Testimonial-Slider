@@ -17,7 +17,7 @@ const reviews = [
       id: 3,
       name: "Noushil Sharma",
       job: "Marketing Manager",
-      image: "https://media.licdn.com/dms/image/D4D03AQGbi0YHjFQVsg/profile-displayphoto-shrink_400_400/0/1685982397540?e=1696464000&v=beta&t=YrqiRok5yax2MvRR8_rGnLBebGXoe99BNuaTjzdzQiw",
+      image: "https://pbs.twimg.com/profile_images/1656204462615326721/6Q5jfKH4_400x400.jpg",
       text: "I am thrilled with the results of our recent marketing campaign, and it wouldn't have been possible without the hard work and dedication of the entire team. Thank you for your exceptional work!",
     },
     {
@@ -31,7 +31,7 @@ const reviews = [
       id: 5,
       name: "Nitesh Shakya",
       job: "Data Analyst",
-      image: "https://media.licdn.com/dms/image/D4D03AQF0jGx02mnO8w/profile-displayphoto-shrink_400_400/0/1688367262543?e=1696464000&v=beta&t=X259Xs5LOlL821sbq8yjVwv474v3pg2_C9a__hRNlkk",
+      image: "https://pbs.twimg.com/profile_images/1676836553996509184/qZpo0Tg3_400x400.jpg",
       text: "I had the opportunity to work with this team on a data analysis project, and I was impressed with their attention to detail and their ability to work with complex datasets. They provided valuable insights that helped us make informed business decisions. It was a pleasure working with them.",
     },
   ];
