@@ -3,7 +3,7 @@ const reviews = [
       id: 1,
       name: "Dipankar Yadav",
       job: "Software Engineer",
-      image: "./src/assets/images/dipankar.jpeg",
+      image: "https://media.licdn.com/dms/image/C5603AQGoIByOfRHDng/profile-displayphoto-shrink_400_400/0/1632741855887?e=1696464000&v=beta&t=QKf32qhJxnGrHaQ6u2U4MzK3rGJfb5Sy495WIAvN784",
       text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
     },
     {
